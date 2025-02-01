@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: Spring-Profile
+    
+  profiles:
+    active: prod  
+    
+server:
+  port: 8081
+  
+
+  
+    
+
